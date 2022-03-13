@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=centerfield77)
+![centerfield77's GitHub stats](https://github-readme-stats.vercel.app/api?username=centerfield77&count_private=true)
