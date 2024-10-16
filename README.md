@@ -1,4 +1,7 @@
-小芝風花オフィシャルサイトはこちら  
-https://www.oscarpro.co.jp/talent/fuka_koshiba/index.html
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=centerfield77&layout=compact&count_private=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=centerfield77&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+</p>
 
-![fuka](https://github.com/user-attachments/assets/4f2e5722-f76b-4386-b14a-b265ce7346a2)
+[![trophy](https://github-profile-trophy.vercel.app/?username=centerfield77&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
